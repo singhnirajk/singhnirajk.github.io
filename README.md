@@ -81,4 +81,3 @@ Here is an example source code for a fancy portfolio website with different sect
 </html>
 ```
 
-The sections can be styled nicely using CSS. This gives a basic structure for a portfolio website with different tabs to showcase your background and work. Additional content and styling can be added as needed.

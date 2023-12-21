@@ -1,61 +1,84 @@
-# Nirajkumar Singh
+Here is an example source code for a fancy portfolio website with different sections:
 
-### Contact
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
-- Email: nirajkumarsingh@usf.edu
-- Phone: 813 7052607  
-- LinkedIn: https://www.linkedin.com/in/niraj08/
+<body>
 
-### Summary  
+  <!-- Navigation -->
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#skills">Skills</a></li> 
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
 
-Customer-oriented and data driven product analyst with 3 years of experience managing products and building roadmaps in the IT domain.
+  <!-- About Section -->
+  <section id="about">
+    <h1>Hi, I'm John!</h1>
+    <p>A little bit about me...</p>
+  </section>
 
-### Work Experience
+  <!-- Education Section -->
+  <section id="education">
+    <h2>Education</h2>
+    <h3>University Name</h3> 
+    <p>Degree | Date</p>
+  </section>
 
-**Senior Product Analyst, Cyware Labs** (Feb 2022 - Jul 2023)
-- Led a fast-paced end-to-end Product Development Lifecycle for 30 B2B clients   
-- Owned the product strategy, roadmap, user stories, and go-to-market strategies
-- Led new product prototyping initiatives, determined product needs, and oversaw the development and testing of new applications, which led to a 20% increase in product revenue
+  <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </section>
 
-**Information Developer, Protegrity** (Aug 2020 - Feb 2022)   
-- Contributed as an information developer in the Center of Excellence team to document data-security products and review UI content and error messages  
-- Worked closely with the solution delivery team in designing data sheets for customers and assisting in the POC (proof of concept) and post-sales process
-- Redesigned the user onboarding process, leading to a massive 60% increase in customer satisfaction score
+  <!-- Experience Section -->
+  <section id="experience">
+    <h2>Experience</h2>
 
-**Growth and Strategy Intern, Zomato** (Apr 2019 - Dec 2019)
-- Leveraged MS Excel and SQL to analyze massive volumes of consumer data   
-- Introduced improvements to speed up food order processing and enhance the supporting technology in supply chain management team
-- Planned and executed marketing campaigns in untapped potential regions of India and contributed to the revenue growth of 23.86%
+    <h3>Job 1</h3>
+    <p>Description of job 1...</p>
 
-### Education
+    <h3>Job 2</h3>
+    <p>Description of job 2...</p>
+  </section>
 
-**MS, Business Analytics and Information Systems, University of South Florida** (Aug 2023 - Present)
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
 
-**BE, Computer Science, University of Mumbai** (2016-2020)   
+    <div class="project">
+      <h3>Project 1</h3>
+      <p>Description of project 1...</p>
+    </div>
 
-### Skills
+    <div class="project">
+      <h3>Project 2</h3>  
+      <p>Description of project 2...</p>
+    </div>
+  </section>
 
-- Product Management  
-- Market Research
-- UX Research and Design
-- Tableau  
-- Business Intelligence
-- MS Excel
-- Python
-- SQL
-- MS Office
-- Statistics
-- Communication & Organizational Skills
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: contact@myportfolio.com</p>
+  </section>
 
-### Certifications  
+</body>
+</html>
+```
 
-- Microsoft Azure Certified: AZ900, DP900, and AI 900
-- AWS Certified Cloud Practitioner  
-- Machine Learning from Stanford (Coursera)
-- Design Thinking from LinkedIn Learning
-
-### Projects
-
-- **Moody Music Player** - Developed a music recommendation system that detects mood from facial expressions and plays corresponding music
-- **Object Detection System** - Created an application to detect objects in images and generate image captions (92% accurate) 
-- **QnA Over Docs** - Developed a conversational chatbot to answer questions by searching through text documents
+The sections can be styled nicely using CSS. This gives a basic structure for a portfolio website with different tabs to showcase your background and work. Additional content and styling can be added as needed.

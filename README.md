@@ -208,7 +208,7 @@
 </div>
 
 
-<img src = "images/pp.jpeg" id= "me" alt = "Photograph of Niraj Singh">
+<img src = "[images/pp.jpeg](https://github.com/singhnirajk/singhnirajk.github.io/issues/2)" id= "me" alt = "Photograph of Niraj Singh">
 
 
 </div>
